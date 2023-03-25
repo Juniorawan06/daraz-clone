@@ -18,6 +18,6 @@
 <h3 align='center'> Home Page 🏡</h3>
 
 <div align='center'>
-<img src="img/portfolio.PNG" alt="Design Screenshot">
+<img src="img/screenshot.png" alt="Design Screenshot">
 
 </div>
